@@ -16,6 +16,10 @@ function iterator(arr) {
         }
     }
 }
+/*
+    Direct access to index is restricted.
+    The usage is decribed below
+*/
 
 (function(){
     let a = [1, 2, 3];
